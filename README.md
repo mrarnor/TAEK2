@@ -9,7 +9,7 @@ verjast því þegar unnið er með tölvubúnað?
 madur get ur notad armband eða notad bretti undir toflu til ad fordast ad fa straum og eyddi tolvu
 
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
-hvort du er ad nota retta 
+hvort du er ad nota retta svo du skatar eki tolvuna din
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
@@ -18,7 +18,9 @@ Nefnið dæmi um báðar gerðir af spurningum.
 ## 8. Hvað eru jaðartæki?
 
 ## 9. Nefndu þrjú dæmi um inntakstæki.
+mús, likklaborð , microphone
 
-## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
-leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
-fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu.
+#### Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+#### fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
