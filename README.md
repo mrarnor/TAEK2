@@ -7,20 +7,23 @@ Processor,motherboard,case,storage,memory,graphic card,powersupply,
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
 madur get ur notad armband eða notad bretti undir toflu til ad fordast ad fa straum og eyddi tolvu
-
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 hvort du er ad nota retta svo du skatar eki tolvuna din
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
-
+skoða vel havð er að hvort se hægt asð laga
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
-
 ## 8. Hvað eru jaðartæki?
-
+jarðarbunaður er bunaður i tolvu
 ## 9. Nefndu þrjú dæmi um inntakstæki.
 mús, likklaborð , microphone
-
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu.
 #### Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 #### fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-
+| ihluti        | var           | pris  |
+| ------------- |:-------------:| -----:|
+| Intel Core i5      | processor | 57.000 |
+| Intel USB 3.1, HDMI og 2x M.2      | graphic card     |   23.000 |
+| windows 10 |       |    8.000 |
+|Gigabyte Z370 mATX móðurborð| motherboard| 23.000|
+|power supply er| powersupply|12.000|
